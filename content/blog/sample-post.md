@@ -15,3 +15,9 @@ This is my **first blog post** written in Markdown and managed with **Netlify CM
 * Editable through the Netlify CMS admin interface
 
 ### Code Example
+
+* ![Daisy](/images/uploads/screenshot-2025-06-04-113038.png "Daisy Flower")
+
+  ```
+  console.log("This blog is powered by Netlify CMS!");
+  ```
