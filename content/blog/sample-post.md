@@ -1,7 +1,7 @@
 ---
-title: "My First Blog Post"
-date: 2025-06-04
-description: "This is a demo blog post using Netlify CMS."
+title: My First Blog Post
+date: 2025-06-25T22:00:00.000Z
+description: This is a demo blog post using Netlify CMS.
 ---
 
 ## Hello and Welcome!
