@@ -1,6 +1,6 @@
 ---
 title: My First Blog Post
-date: 2025-06-25T22:00:00.000Z
+date: 2025-08-21T11:09:15.531Z
 description: This is a demo blog post using Netlify CMS.
 ---
 
